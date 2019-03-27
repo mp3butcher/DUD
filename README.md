@@ -7,7 +7,7 @@ Le Dispositif d’Urgence Démocratique (ou DUD), vise à instrumenter le Réfé
 
 Plus exactement,
 
-Voter contre projet de loi parlementaire en AG
+Voter un contre projet de loi parlementaire en AG
 
 Rédiger un projet de loi contrecarrant le projets de loi du gouvernement.
 
@@ -21,6 +21,7 @@ Ce projet de contre administration systémique constitutionnellement valide, né
 
 ### DETERMINATION DES PROJETS DE LOI A CONTRECARRER
 Cette partie ne nécessite pas de coordination nationale que dans le seul but d'éviter les redondances.
+
 En effet, un projet de loi peut être voté dans les différentes Assemblées Générales sans concertation.
 
 Cependant, les différentes commissions communications devront s'assurer de la non-redondance des projets afin d'éviter des projets en double sur le territoire.
@@ -37,16 +38,38 @@ Boucler (avec l'aide de députés locaux?):
 - Validation
 
 ### EMISSION AUX PARLEMENTAIRES
-Utiliser l'annuaire de l'Assemblée Nationale et du Sénat afin d'envoyer le projet de loi aux parlementaires
-Au bout d'une semaine, déclencher un plan d'harcélement téléphonique et email des parlementaires auquels a été envoyé le projet de loi.
+Utiliser l'annuaire de l'Assemblée Nationale et du Sénat afin d'envoyer le projet de loi aux parlementaires.
+
+Au bout d'une semaine, déclencher un plan de démarchage téléphonique et email des parlementaires auquels a été envoyé le projet de loi.
 
 ### VALIDATION PAR CONSEIL CONSTITUTIONNEL
-le Conseil constitutionnel vérifie la conformité de la proposition aux règles d’organisation d’un référendum
+Le Conseil constitutionnel vérifie la conformité de la proposition aux règles d’organisation d’un référendum
 
 ### COMMUNICATION AUPRES L'ELECTORAT
-Une fois que les 20% de parlementaires ralliés, commencer une campagne de sensibilisation de l'éléctorat à travers
+Une fois que les 20% de parlementaires ralliés, commencer une campagne de sensibilisation de l'électorat à travers
 - les Assemblées Gilets Jaunes de tout le pays
 - du tractage en manifestation
 - des messages radio
 - des communications sur les réseaux sociaux
 - et autres....
+
+
+## STRUCTURE GILETS JAUNES A METTRE EN PLACE
+Dans le contexte du DUD, plusieurs équipes fonctionnelles doivent être mise en place dans chaque structure locale Gilets Jaunes
+
+# Comité de rédaction
+Composé de plusieurs type d'individu
+- rédacteurs
+- démarcheurs prise de contact avec des députés, juristes, chercheurs pour validation
+
+# Comité de communication parlementaire
+Démarcheurs auprès des députés et sénateurs
+
+# Comité de sensibilisation électorat
+Composé de plusieurs type d'individu:
+- communicateurs physique (tracteurs, crieurs publics..etc)
+- communicateurs média (presse, radio, TV...)
+- communicateurs réseaux sociaux
+
+
+
