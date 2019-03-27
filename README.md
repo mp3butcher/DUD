@@ -31,7 +31,7 @@ Conformément au RIP, les projets de loi doivent s'inscrire dans un des domaines
 - ratification d’un traité
 
 ### REDACTION DU PROJET DE LOI
-Boucler:
+Boucler (avec l'aide de députés locaux?):
 - Rédaction
 - Relecture
 - Validation
