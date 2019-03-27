@@ -40,6 +40,9 @@ Boucler:
 Utiliser l'annuaire de l'Assemblée Nationale et du Sénat afin d'envoyer le projet de loi aux parlementaires
 Au bout d'une semaine, déclencher un plan d'harcélement téléphonique et email des parlementaires auquels a été envoyé le projet de loi.
 
+### VALIDATION PAR CONSEIL CONSTITUTIONNEL
+le Conseil constitutionnel vérifie la conformité de la proposition aux règles d’organisation d’un référendum
+
 ### COMMUNICATION A L'ELECTORAT
 Une fois que les 20% de parlementaires ralliés, commencer une campagne de sensibilisation de l'éléctorat à travers
 - les Assemblées Gilets Jaunes de tout le pays
