@@ -11,7 +11,7 @@ Voter contre projet de loi parlementaire en AG
 
 Rédiger un projet de loi contrecarrant le projets de loi du gouvernement.
 
-Après la rédaction de chaque contre projet de loi, et conformément aux exigences du RIP, les citoyens le valident auprès de leurs parlementaires (20% des parlementaires) et collectent les signatures nécessaires auprès des citoyens (10% électorat).
+Après la rédaction de chaque contre projet de loi, et conformément aux exigences du RIP, les citoyens le valident auprès de leurs parlementaires (20% des parlementaires) et sensibilise les citoyens au projet (afin de récolter 10% des suffrages).
 
 https://www.vie-publique.fr/focus/decrypter-actualite/quoi-consiste-referendum-initiative-partagee.html
 
