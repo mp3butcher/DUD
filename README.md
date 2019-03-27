@@ -64,7 +64,7 @@ Plusieurs équipes fonctionnelles doivent être mise en place dans chacune des f
 ### Comité de rédaction
 Composé de plusieurs type d'individu
 - rédacteurs
-- démarcheurs prise de contact avec des députés, juristes, chercheurs pour validation
+- démarcheurs (prise de contact avec des députés, juristes, chercheurs pour relecture et validation)
 
 ### Comité de communication parlementaire
 Démarcheurs auprès des députés et sénateurs
