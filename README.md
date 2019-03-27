@@ -11,14 +11,13 @@ Voter contre projet de loi parlementaire en AG
 
 Rédiger un projet de loi contrecarrant le projets de loi du gouvernement.
 
-Après la rédaction de chaque contre projet de loi, et conformément aux exigences du RIP, les citoyens le valident auprès de leurs parlementaires (20% des parlementaires) et sensibilise les citoyens au projet (afin de récolter 10% des suffrages).
+Après la rédaction de chaque contre projet de loi, et conformément aux exigences du RIP, les citoyens le valident auprès de leurs parlementaires (20% des parlementaires) et sensibilisent leurs concitoyens au projet (afin de récolter 10% des suffrages).
 
 https://www.vie-publique.fr/focus/decrypter-actualite/quoi-consiste-referendum-initiative-partagee.html
 
 ## DETAILS
 
 Ce projet de contre administration systémique constitutionnellement valide, nécessite une logistique et une organisation adaptées à ces ambitions qu’il pourrait trouver à travers les outils démocratiques des GJs.
-
 
 ### DETERMINATION DES PROJETS DE LOI A CONTRECARRER
 Cette partie ne nécessite pas de coordination nationale que dans le seul but d'éviter les redondances.
@@ -44,7 +43,7 @@ Au bout d'une semaine, déclencher un plan d'harcélement téléphonique et emai
 ### VALIDATION PAR CONSEIL CONSTITUTIONNEL
 le Conseil constitutionnel vérifie la conformité de la proposition aux règles d’organisation d’un référendum
 
-### COMMUNICATION A L'ELECTORAT
+### COMMUNICATION AUPRES L'ELECTORAT
 Une fois que les 20% de parlementaires ralliés, commencer une campagne de sensibilisation de l'éléctorat à travers
 - les Assemblées Gilets Jaunes de tout le pays
 - du tractage en manifestation
