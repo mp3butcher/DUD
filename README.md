@@ -20,7 +20,7 @@ https://www.vie-publique.fr/focus/decrypter-actualite/quoi-consiste-referendum-i
 Ce projet de contre administration systémique constitutionnellement valide, nécessite une logistique et une organisation adaptées à ces ambitions qu’il pourrait trouver à travers les outils démocratiques des GJs.
 
 ### DETERMINATION DES PROJETS DE LOI A CONTRECARRER
-Cette partie ne nécessite pas de coordination nationale que dans le seul but d'éviter les redondances.
+Cette partie ne nécessite de coordination nationale que dans le seul but d'éviter les redondances:
 
 En effet, un projet de loi peut être voté dans les différentes Assemblées Générales sans concertation.
 
