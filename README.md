@@ -18,10 +18,17 @@ Après la rédaction de chaque contre projet de loi, et conformément aux exigen
 
 Ce projet de contre administration systémique constitutionnellement valide, nécessite une logistique et une organisation adaptées à ces ambitions qu’il pourrait trouver à travers les outils démocratiques des GJs.
 
+
 ### DETERMINATION DES PROJETS DE LOI A CONTRECARRER
 Cette partie ne nécessite pas de coordination nationale que dans le seul but d'éviter les redondances.
 En effet, un projet de loi peut être voté dans les différentes Assemblées Générales sans concertation.
+
 Cependant, les différentes commissions communications devront s'assurer de la non-redondance des projets afin d'éviter des projets en double sur le territoire.
+
+Conformément au RIP, les projets de loi doivent s'inscrire dans un des domaines suivant:
+- organisation des pouvoirs publics, 
+- réformes relatives à la politique économique, sociale ou environnementale, 
+- ratification d’un traité
 
 ### REDACTION DU PROJET DE LOI
 Boucler:
