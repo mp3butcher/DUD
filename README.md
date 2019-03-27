@@ -18,4 +18,25 @@ Après la rédaction de chaque contre projet de loi, et conformément aux exigen
 
 Ce projet de contre administration systémique constitutionnellement valide, nécessite une logistique et une organisation adaptées à ces ambitions qu’il pourrait trouver à travers les outils démocratiques des GJs.
 
+### DETERMINATION DES PROJETS DE LOI A CONTRECARRER
+Cette partie ne nécessite pas de coordination nationale que dans le seul but d'éviter les redondances.
+En effet, un projet de loi peut être voté dans les différentes Assemblées Générales sans concertation.
+Cependant, les différentes commissions communications devront s'assurer de la non-redondance des projets afin d'éviter des projets en double sur le territoire.
 
+### REDACTION DU PROJET DE LOI
+Boucler:
+- Rédaction
+- Relecture
+- Validation
+
+### EMISSION AUX PARLEMENTAIRES
+Utiliser l'annuaire de l'Assemblée Nationale et du Sénat afin d'envoyer le projet de loi aux parlementaires
+Au bout d'une semaine, déclencher un plan d'harcélement téléphonique et email des parlementaires auquels a été envoyé le projet de loi.
+
+### COMMUNICATION A L'ELECTORAT
+Une fois que les 20% de parlementaires ralliés, commencer une campagne de sensibilisation de l'éléctorat à travers
+- les Assemblées Gilets Jaunes de tout le pays
+- du tractage en manifestation
+- des messages radio
+- des communications sur les réseaux sociaux
+- et autres....
