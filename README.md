@@ -55,17 +55,21 @@ Une fois que les 20% de parlementaires ralliés, commencer une campagne de sensi
 
 
 ## STRUCTURE GILETS JAUNES A METTRE EN PLACE
-Dans le contexte du DUD, plusieurs équipes fonctionnelles doivent être mise en place dans chaque structure locale Gilets Jaunes
+Dans le cadre d'un projet administratif comme le DUD, une fédération territoriale des structures GJ (ex: à l'échelle de la région) est à envisager.
 
-# Comité de rédaction
+Cette fédération pourrait être assurée par les commissions communication de chaque structure locale.
+
+Plusieurs équipes fonctionnelles doivent être mise en place dans chacune des fédérations.
+
+### Comité de rédaction
 Composé de plusieurs type d'individu
 - rédacteurs
 - démarcheurs prise de contact avec des députés, juristes, chercheurs pour validation
 
-# Comité de communication parlementaire
+### Comité de communication parlementaire
 Démarcheurs auprès des députés et sénateurs
 
-# Comité de sensibilisation électorat
+### Comité de sensibilisation électorat
 Composé de plusieurs type d'individu:
 - communicateurs physique (tracteurs, crieurs publics..etc)
 - communicateurs média (presse, radio, TV...)
