@@ -7,11 +7,11 @@ Le Dispositif d’Urgence Démocratique (ou DUD), vise à instrumenter le Réfé
 
 Plus exactement,
 
-Voter un contre projet de loi parlementaire en AG
+Voter un contre projet de loi contrecarrant une loi du gouvernement en AG.
 
-Rédiger un projet de loi contrecarrant le projets de loi du gouvernement.
+Rédiger le contre projet de loi.
 
-Après la rédaction de chaque contre projet de loi, et conformément aux exigences du RIP, les citoyens le valident auprès de leurs parlementaires (20% des parlementaires) et sensibilisent leurs concitoyens au projet (afin de récolter 10% des suffrages).
+Après la rédaction du contre projet de loi, et conformément aux exigences du RIP, les citoyens le valident auprès de leurs parlementaires (20% des parlementaires) et sensibilisent leurs concitoyens au projet (afin de récolter 10% des suffrages).
 
 https://www.vie-publique.fr/focus/decrypter-actualite/quoi-consiste-referendum-initiative-partagee.html
 
